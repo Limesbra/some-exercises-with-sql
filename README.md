@@ -219,7 +219,7 @@ Please register new orders from all persons for “greek pizza” on 25th of Feb
 
 | Exercise 13: Money back to our customers|                                                                                                                          |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| Filename                     | tasl_13                                                                                                                     |
+| Filename                     | task_13                                                                                                                     |
 | **Allowed**                               |                                                                                                                          |
 | Language                        | ANSI SQL                                                                                              |
     
